@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.MeteorSnap" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/meteor_primary</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/meteor_secondary</item>
+        <item name="colorSurface">@color/meteor_surface</item>
+        <item name="colorOnSurface">@color/meteor_on_surface</item>
+        <item name="colorOutline">#737A9B</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/meteor_background</item>
+        <item name="android:navigationBarColor">@color/meteor_background</item>
+        <item name="android:statusBarColor">@color/meteor_background</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorAccent">@color/meteor_secondary</item>
+    </style>
+</resources>

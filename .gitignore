@@ -1,0 +1,27 @@
+.gradle/
+.gradle-user-home/
+.gradle-bootstrap/
+.android-cli/
+.android-sdk/
+commandlinetools-win.zip
+gradle-*-bin.zip
+.idea/
+local.properties
+**/build/
+*.iml
+captures/
+
+# Kotlin/Gradle local caches and error logs
+.kotlin/
+
+# JVM heap dumps
+*.hprof
+
+# Temporary extraction/reference files
+tmp_camerafi_extract/
+
+# Locally generated SSH keys and secrets
+*ssh-keygen*
+id_rsa*
+id_ed25519*
+*.pem

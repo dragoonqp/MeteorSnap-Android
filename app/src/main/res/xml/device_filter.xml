@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB interface class 14 = USB Video Class。厂商若未在 device 层声明 class，运行时仍会扫描 interface。 -->
+    <usb-device class="14" />
+</resources>

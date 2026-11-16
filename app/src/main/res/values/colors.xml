@@ -1,0 +1,7 @@
+<resources>
+    <color name="meteor_primary">#6B63FF</color>
+    <color name="meteor_secondary">#9A8CFF</color>
+    <color name="meteor_background">#0C1020</color>
+    <color name="meteor_surface">#171C31</color>
+    <color name="meteor_on_surface">#F2F1FF</color>
+</resources>
